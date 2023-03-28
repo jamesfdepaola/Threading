@@ -1,0 +1,17 @@
+C:\Users\quetz\Desktop\threadtest\ThreadTest\bin\Debug\net6.0-windows\ThreadTest.exe
+C:\Users\quetz\Desktop\threadtest\ThreadTest\bin\Debug\net6.0-windows\ThreadTest.deps.json
+C:\Users\quetz\Desktop\threadtest\ThreadTest\bin\Debug\net6.0-windows\ThreadTest.runtimeconfig.json
+C:\Users\quetz\Desktop\threadtest\ThreadTest\bin\Debug\net6.0-windows\ThreadTest.dll
+C:\Users\quetz\Desktop\threadtest\ThreadTest\bin\Debug\net6.0-windows\ThreadTest.pdb
+C:\Users\quetz\Desktop\threadtest\ThreadTest\obj\Debug\net6.0-windows\ThreadTest.csproj.AssemblyReference.cache
+C:\Users\quetz\Desktop\threadtest\ThreadTest\obj\Debug\net6.0-windows\ThreadTest.Form1.resources
+C:\Users\quetz\Desktop\threadtest\ThreadTest\obj\Debug\net6.0-windows\ThreadTest.csproj.GenerateResource.cache
+C:\Users\quetz\Desktop\threadtest\ThreadTest\obj\Debug\net6.0-windows\ThreadTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quetz\Desktop\threadtest\ThreadTest\obj\Debug\net6.0-windows\ThreadTest.AssemblyInfoInputs.cache
+C:\Users\quetz\Desktop\threadtest\ThreadTest\obj\Debug\net6.0-windows\ThreadTest.AssemblyInfo.cs
+C:\Users\quetz\Desktop\threadtest\ThreadTest\obj\Debug\net6.0-windows\ThreadTest.csproj.CoreCompileInputs.cache
+C:\Users\quetz\Desktop\threadtest\ThreadTest\obj\Debug\net6.0-windows\ThreadTest.dll
+C:\Users\quetz\Desktop\threadtest\ThreadTest\obj\Debug\net6.0-windows\refint\ThreadTest.dll
+C:\Users\quetz\Desktop\threadtest\ThreadTest\obj\Debug\net6.0-windows\ThreadTest.pdb
+C:\Users\quetz\Desktop\threadtest\ThreadTest\obj\Debug\net6.0-windows\ThreadTest.genruntimeconfig.cache
+C:\Users\quetz\Desktop\threadtest\ThreadTest\obj\Debug\net6.0-windows\ref\ThreadTest.dll
